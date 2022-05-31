@@ -8,3 +8,10 @@
 6.  Greet delivery driver
 7.  See step 4b. if necessary
 8.  Tip the pizza man
+    8a.  if we pay pay over the phone then provide payment info
+     -Wait for the delivery 
+     -Tip the driver
+    8b. If we are going to pay at the door
+        -wait for delivery
+        -pay for pizza
+        -tip the driver
